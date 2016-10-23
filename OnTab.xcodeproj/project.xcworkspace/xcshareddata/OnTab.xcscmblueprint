@@ -1,0 +1,52 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A021D534AC0506A4C3F2E3A08924FD146D95DB4B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "84e54aa4-a37b-4ea8-8eea-4c307f7b09a9++7862" : {
+
+    },
+    "9dd0937b-47bd-4ca5-8e59-b1576aa3ca51++1323" : {
+
+    },
+    "e55673b5-e5af-4746-a8d0-74f1824579ff++7113" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A021D534AC0506A4C3F2E3A08924FD146D95DB4B" : 0,
+    "84e54aa4-a37b-4ea8-8eea-4c307f7b09a9++7862" : 0,
+    "e55673b5-e5af-4746-a8d0-74f1824579ff++7113" : 0,
+    "9dd0937b-47bd-4ca5-8e59-b1576aa3ca51++1323" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "674F5F84-E423-4C87-8BA1-E902F5872EA7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A021D534AC0506A4C3F2E3A08924FD146D95DB4B" : "OnTap\/",
+    "84e54aa4-a37b-4ea8-8eea-4c307f7b09a9++7862" : "OnTap\/OnTab\/Classes\/Libraries\/Reachability\/",
+    "e55673b5-e5af-4746-a8d0-74f1824579ff++7113" : "OnTap\/OnTab\/Classes\/Libraries\/JSON\/",
+    "9dd0937b-47bd-4ca5-8e59-b1576aa3ca51++1323" : "OnTap\/OnTab\/Classes\/Libraries\/ASI\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "OnTab",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "OnTab.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/tkxel.svn.cvsdude.com\/ReidmarkPropertyManager",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "84e54aa4-a37b-4ea8-8eea-4c307f7b09a9++7862"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/tkxel.svn.cvsdude.com\/TradiePoint",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9dd0937b-47bd-4ca5-8e59-b1576aa3ca51++1323"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yulian-simeonov\/OnTap-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A021D534AC0506A4C3F2E3A08924FD146D95DB4B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/swellaa.unfuddle.com\/svn\/swellaa_swellaa",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "e55673b5-e5af-4746-a8d0-74f1824579ff++7113"
+    }
+  ]
+}
